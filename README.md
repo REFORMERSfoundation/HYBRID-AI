@@ -1,2 +1,2 @@
-# HYBRID-AI
-HYBRID AI
+# HYBRID AI
+Common sense machine reasoning.
